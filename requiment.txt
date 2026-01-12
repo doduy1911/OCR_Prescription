@@ -1,3 +1,5 @@
+jinja2
+typeguard
 paddlepaddle
 paddleocr
 opencv-python
